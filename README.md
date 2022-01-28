@@ -19,4 +19,3 @@ Project Description:
 - Staff can also make purchases that the final cost is calculated differently for them. Staff only have to pay 80% of the original cost, in addition to, they have fixed discount for every 10 sales.
 - Each customer gets a fixed discount for introduce each new customer.
 - For every 10 purchases, each customer will get a fixed discount on the next purchase.
-- 
