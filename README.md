@@ -1,5 +1,5 @@
 # Pizza-Shop-System
-Mini Project About Pizza Shop System With Java Programming Language.
+Mini Project About Pizza Shop System With Java Programming Language.<br/>
 Project Description:
 - In this project, used inheritance and abstract methods. 
 - In this pizza shop, two types of fast food are offered: pizza and sandwich.
